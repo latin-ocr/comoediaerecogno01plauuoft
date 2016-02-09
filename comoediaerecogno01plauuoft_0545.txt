@@ -1,0 +1,62 @@
+SCHEMA METRORVM
+
+127-1 37 Cret. Tetrametri (sed 133 Choriamb. Tetrameter)
+138—380 Troch. Septenarii
+381—503 Iamb. Septenarii
+504-544 Troch. Septenarii
+545-745 Iamb. Septenarii
+746—829 lamb. Senarii
+830-850 lamb. Octonarii
+851-947 Troch. Septenarii
+Aul. Arg. 1, II, Prol. lamb. Senarii
+40-119 Iamb. Senarii
+120—134 Bacch. Tetrametri (sed 131 et 133 Bacch. Dim.
+cum lamb. Dim. Catal.)
+
+135—140 Iambici
+
+141 Troch. Septenarius
+
+142, 142a et 144 Cretici
+
+143 et 145 Ithyphallici
+
+146 et 149-154 Anapaestici. (153 Versus Reizianus ?›
+
+147—148 Bacch. Tetrametri
+
+155 Anap. Monometer curn Colo Reiziano
+
+156—8 et 160 Versus Reiziani, i.e. lamb. Dimetri Acatal.
+
+curn Colis Reizianis
+159 (ἓ) Bacch. Trimeter cum Colo Reiziano
+(υ-ζ--ζῘυ-Ᾰ-ΛΙ-ύυέ Η-όυυυ-Ι--)
+
+161-279 Troch. Septenarii
+
+280—405 Iamb. Senarii (Sed 393 Troch. Septenarius)
+
+406—412 Trochaici
+
+412³ Anap. Dimeter Catal.
+
+413—414 Iamb. Octonarii
+
+415-445 Versus Reiziani
+
+446 (ἒ) Ionic. Dimeter cum Colo Reiziano
+(ύυ-ὐυΞ-’έψυ Η -ᾼψψέ-)
+
+447-474 Troch. Septenarii
+
+475—586 lamb. Senarii
+
+587—660 Troch. Septenarii, sed 660 Octonarius
+
+661—712 lamb. Senarii
+
+713—726 Anapaestici
+
+727-730 Trochaici
+
